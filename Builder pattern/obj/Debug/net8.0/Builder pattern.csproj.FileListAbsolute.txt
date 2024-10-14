@@ -1,0 +1,14 @@
+E:\миша\Builder pattern\bin\Debug\net8.0\Builder pattern.exe
+E:\миша\Builder pattern\bin\Debug\net8.0\Builder pattern.deps.json
+E:\миша\Builder pattern\bin\Debug\net8.0\Builder pattern.runtimeconfig.json
+E:\миша\Builder pattern\bin\Debug\net8.0\Builder pattern.dll
+E:\миша\Builder pattern\bin\Debug\net8.0\Builder pattern.pdb
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.AssemblyInfoInputs.cache
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.AssemblyInfo.cs
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.csproj.CoreCompileInputs.cache
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.dll
+E:\миша\Builder pattern\obj\Debug\net8.0\refint\Builder pattern.dll
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.pdb
+E:\миша\Builder pattern\obj\Debug\net8.0\Builder pattern.genruntimeconfig.cache
+E:\миша\Builder pattern\obj\Debug\net8.0\ref\Builder pattern.dll
