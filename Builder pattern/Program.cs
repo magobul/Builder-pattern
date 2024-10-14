@@ -12,12 +12,11 @@ public class Program
 
         ComputerBuilder builder = new ComputerBuilder();
         Computer myComputer = builder.SetCPU(cpu)
-                                      .SetMotherboard(motherboard)
-                                      .SetRAM(ram)
-                                      .SetStorage(storage)
-                                      .SetVideoCard(videoCard)
-                                      .Build();
-
+            .SetMotherboard(motherboard)
+            .SetRAM(ram)
+            .SetStorage(storage)
+            .SetVideoCard(videoCard)
+            .Build();
         Console.WriteLine(myComputer);
     }
 }
